@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 Nope...emoji codes are beyond me.😬 but I can copy them from messenger!
+**bold**, _Italics_...appears underline isn't an option
